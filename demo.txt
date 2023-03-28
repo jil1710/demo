@@ -5,3 +5,5 @@ patel
 ria patel
 print(jil)
 print(ria)
+print(janvi)
+print(aditi)
